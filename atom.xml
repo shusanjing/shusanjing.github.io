@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shusanjing.github.io</id>
-    <title>书三景</title>
-    <updated>2021-10-05T08:38:16.038Z</updated>
+    <title>书三景Gridea</title>
+    <updated>2021-10-05T08:39:29.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shusanjing.github.io"/>
     <link rel="self" href="https://shusanjing.github.io/atom.xml"/>
     <subtitle>可收录</subtitle>
     <logo>https://shusanjing.github.io/images/avatar.png</logo>
     <icon>https://shusanjing.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 书三景</rights>
+    <rights>All rights reserved 2021, 书三景Gridea</rights>
     <entry>
         <title type="html"><![CDATA[测试[2021-10-05]]]></title>
         <id>https://shusanjing.github.io/post/ce-shi-2021-10-05/</id>
