@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shusanjing.github.io</id>
     <title>书三景|Gridea</title>
-    <updated>2022-09-25T05:23:09.963Z</updated>
+    <updated>2022-09-25T05:25:28.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shusanjing.github.io"/>
     <link rel="self" href="https://shusanjing.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://shusanjing.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 书三景|Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[项目：猫三四·自冲水马桶教程]]></title>
+        <title type="html"><![CDATA[项目：猫三四·自冲水猫马桶教程]]></title>
         <id>https://shusanjing.github.io/post/ce-shi-2021-10-05/</id>
         <link href="https://shusanjing.github.io/post/ce-shi-2021-10-05/">
         </link>
