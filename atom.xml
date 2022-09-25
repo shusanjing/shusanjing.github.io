@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shusanjing.github.io</id>
     <title>书三景|Gridea</title>
-    <updated>2022-09-25T05:25:28.662Z</updated>
+    <updated>2022-09-25T05:27:32.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shusanjing.github.io"/>
     <link rel="self" href="https://shusanjing.github.io/atom.xml"/>
@@ -17,6 +17,9 @@
         </link>
         <updated>2021-10-05T08:37:02.000Z</updated>
         <content type="html"><![CDATA[<p>项目地址：https://shusanjing.github.io/maosansi/</p>
+<p>入门：训练器制作和使用<br>
+进阶：自冲水猫马桶制作教程<br>
+参考：自动化配件清单</p>
 ]]></content>
     </entry>
     <entry>
